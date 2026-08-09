@@ -4,5 +4,5 @@
 
 
 <p align="center">
-  <i>I am the night ~ Batman</i>
+  <i>If we weren’t all crazy, we’d just go insane ~ Jimmy Buffett</i>
 </p>
