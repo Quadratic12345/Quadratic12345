@@ -9,12 +9,6 @@
   </a>
 </p>
 
-<br>
-<p align="left">
-  For repo
-</p>
+<p align="center" style="margin-top: 8px; margin-bottom: 8px;"> For repo </p>
 
-<br>
-<p align="center">
-  <i>I am the night ~ Batman</i>
-</p>
+<p align="center" style="margin-top: 8px;"> <i>I am the night ~ Batman</i> </p>
