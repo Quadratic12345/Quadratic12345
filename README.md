@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://sankalpkar.com" target="_blank">
     <img
       width="643"
@@ -10,13 +10,11 @@
 </p>
 
 <br>
-
-<p align="center">
+<p align="left">
   For repo
 </p>
 
 <br>
-
 <p align="center">
   <i>I am the night ~ Batman</i>
 </p>
